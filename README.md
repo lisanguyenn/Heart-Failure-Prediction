@@ -1,2 +1,5 @@
 Heart failure is a medical condition characterized by the heart’s inability to pump sufficient blood to meet the body’s needs. This condition arises when the heart becomes too weak to effectively fill and distribute blood throughout the body. Heart failure is a serious condition that has no cure and requires proper medical treatment. According to the Centers for Disease Control and Prevention (2024), more than 6 million adults in the United States are affected by heart failure. Given the prevalence of heart failure as a chronic condition, the objective of this research project is to investigate which clinical features (i.e. health conditions and diagnoses) are evident in heart failure and how the survival of patients with heart failure change over time.
+
 We will explore a dataset containing health failure clinical records, collected by the UC Irvine Machine Learning Repository. The dataset contains medical records of 299 patients who had heart failure during their follow-up period. Each patients’ medical records contains 13 clinical features listed below (UCI Machine Learning Repository, 2020)
+
+Programming Language: R
